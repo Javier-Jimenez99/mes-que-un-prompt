@@ -1,5 +1,8 @@
 # More than a Hack 2027 — Phase 1: Ball Possession
 
+> [!IMPORTANT]
+> **Team Solution**: All development, implementation code, and documentation for our solution reside strictly inside [solution/](solution/). All work follows the Spec-Driven Development methodology guided by [openspec/](openspec/) and [.agents/AGENTS.md](.agents/AGENTS.md) without modifying the original competition benchmark files. See [solution/README.md](solution/README.md) for details.
+
 **Organised by [Metrica Sports](https://metrica-sports.com), [FC Barcelona](https://www.fcbarcelona.com)
 and the [Mobile World Capital Barcelona](https://www.mwcbarcelona.com)**, at the Talent Arena in Barcelona.
 
